@@ -1,6 +1,6 @@
 public class isTriangle {
     static void main(String[] args){
-  Triangle(2,5,2);
+  System.out.println(Triangle(2,5,2));
     }
 
     static boolean Triangle(int a, int b, int c){
